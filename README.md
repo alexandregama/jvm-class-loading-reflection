@@ -1,5 +1,4 @@
-# jvm-class-loading-reflection
-JVM Class Loading and Reflection
+# The Basics of Classloading
 
 ### Delegation Model
 
@@ -154,3 +153,6 @@ sun.misc.Launcher$ExtClassLoader@182decdb
 Boostrap Classloader
 ```
 
+# Writing our own class loader
+
+### Writing and Using a URLClassLoader
